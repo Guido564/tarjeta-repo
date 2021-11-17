@@ -1,0 +1,30 @@
+body{
+    background-color: gray;
+}
+
+.card {
+    height: 400px;
+    width: 250px;
+    border: 3px solid #2C272E;
+    border-radius: 5px;
+    background-color: #753188;
+    box-shadow: 2px 2px 10px #2C272E;
+}
+
+.imagen-tarjeta{
+    height: 250px;
+    width: 250px;
+    object-fit: cover;
+}
+
+.lista-tarjeta{
+    list-style: none;
+}
+
+.tarjeta-titulo{
+    color: #BC8CF2;
+}
+
+figcaption ul li{
+    margin-bottom: 3px;
+}
